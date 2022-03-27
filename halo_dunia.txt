@@ -1,1 +1,8 @@
 HALO DUNIA
+git init project-baru
+git status
+git config --global user.name  "Pemula Newbie"
+git config --global user.email  "pemula@newbie.com"
+git add halo_dunia.txt => Ke stach
+git commit -m "Commit Pertama" => Ke commit
+git log
